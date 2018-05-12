@@ -1,0 +1,37 @@
+_repo: The-Book-of-Khalid_29257
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rihani, Ameen Fares
+    birthdate: 1876
+    deathdate: 1940
+    gutenberg_agent_id: '33794'
+    url: http://www.gutenberg.org/2009/agents/33794
+    wikipedia: http://en.wikipedia.org/wiki/Amin_al-Rihani
+description: "The Book of Khalid (1911) is a novel by Arab-American writer Ameen Rihani.\
+  \ Composed during a sojourn in the mountains of Lebanon, it is considered to be\
+  \ the first novel by an Arab-American writer in English. His contemporary, Khalil\
+  \ Gibran, illustrated the work, and the story is often seen as an influence on Gibran's\
+  \ own well-known book The Prophet.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2009-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29257'
+  lccn: '11029090'
+  wikidata: Q7719249
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immigrants -- New York (State) -- New York -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Arab Americans -- Fiction'
+title: The Book of Khalid
+url: http://www.gutenberg.org/ebooks/29257
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%83%D8%AA%D8%A7%D8%A8_%D8%AE%D8%A7%D9%84%D8%AF_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://en.wikipedia.org/wiki/The_Book_of_Khalid
