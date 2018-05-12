@@ -16,6 +16,8 @@ description: "The Book of Khalid (1911) is a novel by Arab-American writer Ameen
   \ the first novel by an Arab-American writer in English. His contemporary, Khalil\
   \ Gibran, illustrated the work, and the story is often seen as an influence on Gibran's\
   \ own well-known book The Prophet.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29257#The-Book-of-Khalid
 gutenberg_issued: '2009-06-27'
 gutenberg_type: Text
 identifiers:
